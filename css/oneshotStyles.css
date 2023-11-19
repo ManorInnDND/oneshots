@@ -1,0 +1,16 @@
+section {
+	background:	#ceec60;
+}
+
+body {
+	background-color: #869b3a;
+}
+
+p.dm {
+	font-family:"Bookmania Light", serif;
+	font-size:110%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:300;
+	line-height:1.2;
+}
